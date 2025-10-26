@@ -32,7 +32,7 @@ The Open Neural Network Exchange (ONNX) is an open standard for representing mac
     ```
 
 ## Live demonstration
-https://bugz-mnist.herokuapp.com/
+https://harjyotbagga.github.io/MNIST-on-the-web
 
 ## Contributing
 
